@@ -8,7 +8,7 @@ name = "Emir TUNÇ"
 #print(name.count("E"))
 #print(name.replace("E","i"))
 #print(name[len(name)-1])
-#print(name[0:3])
+#print(name[0:3])adfadfadfadfadfadfadfadfadfadfadfadf
 #print(name[3:])
 #print(name[2::2])
 
